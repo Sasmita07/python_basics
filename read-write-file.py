@@ -16,3 +16,4 @@ for line in f:
     f_out.write("wordcount:"+str(len(tokens))+line)
     # print(len(tokens))
 f.close()
+f_out.close()
