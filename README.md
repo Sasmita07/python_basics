@@ -5,3 +5,4 @@ Day 2: Strings in python
 Day 3: Lists, if statement, for loop in python
 Day 4: Dictionaries, Tuples, modules in python
 Day 4: Read and write into files in python
+Day 4: Special variable in python
