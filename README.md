@@ -8,3 +8,4 @@
 - Day 4: Special variable in python
 - Day 5: Exception handling and class in python
 - Day 6: Inheritance, iterators, generators, comprehensions and set in python
+- Day 7: argparse, decorators in python
