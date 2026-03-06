@@ -9,4 +9,4 @@
 - Day 5: Exception handling and class in python
 - Day 6: Inheritance, iterators, generators, comprehensions and set in python
 - Day 7: argparse, decorators in python
-- Day 8: Multithreading in python
+- Day 8: Multithreading and Multiprocessing in python
