@@ -10,3 +10,7 @@
 - Day 6: Inheritance, iterators, generators, comprehensions and set in python
 - Day 7: argparse, decorators in python
 - Day 8: Multithreading and Multiprocessing in python
+- Day 9: Sharing Data Between Processes Using Array and Value
+- Day 9: Sharing Data Between Processes Using Multiprocessing Queue
+- Day 9: Multiprocessing Lock in python
+- Day 9: Multiprocessing pool in python
