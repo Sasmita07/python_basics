@@ -14,3 +14,5 @@
 - Day 9: Sharing Data Between Processes Using Multiprocessing Queue
 - Day 9: Multiprocessing Lock in python
 - Day 9: Multiprocessing pool in python
+- Day 10: pytest introduction, skip/selectively run tests in pytest
+- Day 10: pytest fixtures
