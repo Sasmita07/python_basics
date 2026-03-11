@@ -16,3 +16,5 @@
 - Day 9: Multiprocessing pool in python
 - Day 10: pytest introduction, skip/selectively run tests in pytest
 - Day 10: pytest fixtures
+- Day 11: pytest parameters
+- Day 11: numpy tutorial - introduction | numpy array vs python list
