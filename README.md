@@ -20,3 +20,4 @@
 - Day 11: numpy tutorial - introduction | numpy array vs python list
 - Day 12: numpy tutorial - basic array operations
 - Day 12: numpy tutorial - slicing/stacking arrays, indexing with boolean arrays
+- Day 12: numpy tutorial - iterate numpy array using nditer | numpy nditer
